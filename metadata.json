@@ -1,0 +1,6 @@
+{
+  "name": "Apple Store",
+  "description": "A premium Apple-inspired eCommerce experience showcasing the iPhone collection with user accounts, cart, checkout, admin analytics, and custom database persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
